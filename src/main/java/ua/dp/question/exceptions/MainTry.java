@@ -1,5 +1,6 @@
 package ua.dp.question.exceptions;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class MainTry {
@@ -25,6 +26,6 @@ public class MainTry {
 		}
 	}
 
-	private static void readFile(String s) {
+	private static void readFile(String s) throws FileNotFoundException {
 	}
 }
