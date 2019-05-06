@@ -1,10 +1,10 @@
-package ua.dp.question.interview;
+package ua.dp.question.oop.inheritence;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-public class AppTest {
+public class MegaGoTest {
 
 	@Test
 	public void shouldAnswerWithTrue() {
